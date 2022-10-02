@@ -1,5 +1,5 @@
 # EDA-Airbnb
-(For Presentation Video, PPT and Dataset: - https://drive.google.com/drive/folders/1cHMZN4t_CSXYClFOO7cP-bGPfHCl1cKv)
+
 Exploratory Data Analysis of Airbnb
 
 What Airbnb is?
